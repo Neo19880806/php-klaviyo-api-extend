@@ -1,5 +1,5 @@
 {
-    "name": "siro/php-klaviyo-api",
+    "name": "siro/php-klaviyo-api-extend",
     "description": "Low level but elegant Klaviyo full API wrapper for PHP with asynchronous track event support",
     "type": "library",
     "license": "MIT",
